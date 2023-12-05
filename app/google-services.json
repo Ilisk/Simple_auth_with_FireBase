@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "655876153288",
+    "project_id": "tltsu-ilisk",
+    "storage_bucket": "tltsu-ilisk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655876153288:android:1d7b8070e9259500a76afd",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYvM6tzbA2qA3AEAJjmX4pEdpYqakv41A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655876153288:android:3ce7aa0fee1d1a6ba76afd",
+        "android_client_info": {
+          "package_name": "com.tltsu.lab4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYvM6tzbA2qA3AEAJjmX4pEdpYqakv41A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
